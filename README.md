@@ -34,20 +34,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-## 📚 » What am I doing at the moment?
-
-`->` I'm currently doing a personal goal, I'm going to accomplish around 10 front end and back end projects, with a 2 week time limit between them.
-
-- [ ] Calculator
-- [ ] Analog clock
-- [ ] Stopwatch 
-- [ ] To-do list
-- [ ] Blog
-- [ ] Online chat
-- [ ] Website like Pastebin
-- [ ] Tic tac toe
-- [ ] Weather website
-- [ ] Portfolio
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Heimsk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Heimsk&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
