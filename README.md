@@ -36,3 +36,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Heimsk&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Heimsk&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## 📚 » What am I currently doing?
+`->` I'm currently learning to develop games, but without engines, only with the pure language, currently I'm making games with Javascript, and in the future I intend to make games with C++ and Rust
