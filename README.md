@@ -38,4 +38,6 @@
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Heimsk&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 📚 » What am I currently doing?
-`->` I'm currently learning to develop games, but without engines, only with the pure language, currently I'm making games with Javascript, and in the future I intend to make games with C++ and Rust
+`->` I'm currently learning to develop games, but without engines, only with the pure language, currently I'm making games with Javascript using the Canvas API for 2d games and ThreeJS for 3d games, and in the future I intend to make games with C++ and Rust
+
+`->` I'm also learning how to draw pixel arts, 3d models, ThreeJS, and GLSL (OpenGL Shading Language)
