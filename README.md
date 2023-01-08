@@ -2,7 +2,7 @@
 
 `~>` My name is Henrique and I'm 17 years old, full stack developer for 3 years.
 
-`->` I'm attending the 2nd year of high school and taking the CNC Machining Mechanic course at SENAI.
+`->` I'm attending the 2nd year of high school.
 
 `~>` I've done several projects as a developer, Discord Bots, Websites, Servers, Api's, and I've also done projects involved with robotics and CNC programming/machining.
 
